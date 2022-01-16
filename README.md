@@ -1,4 +1,4 @@
-# NodeBasics Code Snippets
+# Node.js Basics Code Snippets
 - Questions
 - Timer
 - Import and Export Modules examples
