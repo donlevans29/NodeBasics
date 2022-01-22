@@ -7,6 +7,6 @@
 
 ## Dependency
 You need to npm init to create a package.json
-
+nodemon
 
 ## EXPRESS - ROUTING
